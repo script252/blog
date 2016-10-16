@@ -2,7 +2,7 @@
 title: Swift
 description: A clean minimal Theme for Jekyll
 email: andrewdavidclosson@gmail.com
-baseurl: /swift
+#baseurl: /swift
 url: "http://github.com/script252/blog.github.io" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
