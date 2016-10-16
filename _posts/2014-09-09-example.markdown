@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Example"
+title:  "Testing"
 date:   2014-09-09 22:37:00 +05:30
-categories: example
+categories: testing
 author: pranavrajs
 github_repo_username: pranavrajs
 github_repo : swift
 comments: true
 ---
 
-This is a sample post to denote the features of Swift theme . The theme consists of various share plugins , feedburner support , sitemap generation etc. You can configure the blog in similar way you use a word press blog
+This is a test.
 
 <!-- more -->
 
