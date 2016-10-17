@@ -293,8 +293,8 @@ hr {
   border: 0;
   outline: none;
   height: 10px;
-  background: transparent url('../images/divider.png') center center;
-  margin: 0 0 0px;
+  background: transparent url('../images/hr.png') center center repeat-x;
+  margin: 0 0 10px;
 }
 
 dt {
@@ -369,7 +369,7 @@ section {
       text-align: center;
       font-weight: 100;
       margin-top: 10px;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
     }
 
     .credits {
