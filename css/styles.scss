@@ -114,7 +114,7 @@ $border-radius: 2px;
 body {
   padding-bottom: 20px;
   margin: 0px;
-  font: 14px/1.47 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 14px/1.47 "OpenSansLight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: rgba(#fff, .7);
   font-weight: normal;
   background: #252525;
@@ -324,9 +324,6 @@ section {
     padding: 0 0 5px 0;
 
     h1 {
-      font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
-      font-weight: normal;
-      font-size: 40px;
       text-align: center;
       line-height: 1em;
       padding-bottom: 0;
