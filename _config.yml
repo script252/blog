@@ -85,3 +85,11 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+include: ['_projects']
+projectspath: "/_projects/circuits_game/"
+collections:
+  projects:
+    permalink: /_projects/circuits_game/
+    title: Untitled
+    image: ../images/projects/noprojectimage.png

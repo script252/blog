@@ -115,7 +115,7 @@ $border-radius: 2px;
 }
 
 body {
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   margin: 0px;
   font: 14px/1.47 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: rgba(#fff, .7);
@@ -131,6 +131,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0px 0px;
   font-weight: normal;
   color: #fff;
 }
@@ -161,8 +162,32 @@ a {
   }
 }
 
+article.post {
+  border: 1px solid rgba(0,0,0,0.2);
+  border-radius: 3px;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  padding: 10px 10px;
+  margin: 0 0 20px;
+}
+
+wrapper.gridlayout {
+  
+  .project {
+    width: 25%;
+    float: left;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.1);
+    display: block;
+    padding: 20px 20px 20px 20px;
+    margin: 10px 10px 10px 10px;
+  }
+}
+
 a.read-more {
-  color: rgba(0, 0, 0, 255);
+  direction:rtl;
+  display: block;
 }
 
 .small {
@@ -267,9 +292,9 @@ td {
 hr {
   border: 0;
   outline: none;
-  height: 3px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
-  margin: 0 0 20px;
+  height: 10px;
+  background: transparent url('../images/divider.png') center center;
+  margin: 0 0 0px;
 }
 
 dt {
@@ -280,7 +305,7 @@ dt {
 
 .wrapper {
   width: 100%;
-  max-width: 650px;
+  max-width: 750px;
   margin: 0 auto;
 }
 
