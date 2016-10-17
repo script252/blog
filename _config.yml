@@ -92,4 +92,4 @@ collections:
   projects:
     permalink: /_projects/circuits_game/
     title: Untitled
-    image: ../images/projects/noprojectimage.png
+    image: /images/projects/noprojectimage.png

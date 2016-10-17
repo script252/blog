@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Circuits
-image: ../images/projects/circuits.png
+image: /images/projects/circuits.png
 ---
